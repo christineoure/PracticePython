@@ -13,3 +13,11 @@ len_list = len(list_x)
 
 for i in range(len_list):
     print(list_x[i])
+
+# x = len(list_x)
+# i = 0
+# while i in x [list_x]:
+#     i<x
+#     print(list_a[i])
+#     i+=1
+
